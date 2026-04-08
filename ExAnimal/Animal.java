@@ -18,7 +18,7 @@ class AnimalAdicionado extends Animal {
         this.som = som;
     }
     public void fazerSom() {
-        System.out.println("O " + getNome() + " faz " + som);
+        System.out.println("\nO " + getNome() + " faz " + som);
     }
 
 }
