@@ -1,5 +1,5 @@
 package aula1colecoes;
-
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class ArList3 {
